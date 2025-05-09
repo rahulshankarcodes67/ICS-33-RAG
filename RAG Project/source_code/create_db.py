@@ -10,8 +10,8 @@ from langchain.prompts import ChatPromptTemplate
 
 
 
-DATA_PATH = "/Users/lalitha/Desktop/RAG Project/data_files"
-CHROMA_PATH = "/Users/lalitha/Desktop/RAG Project/chroma/chroma"
+DATA_PATH = "/Users/rahul/Desktop/RAG Project/data_files"
+CHROMA_PATH = "/Users/rahul/Desktop/RAG Project/chroma/chroma"
 
 
 PROMPT_TEMPLATE = """
